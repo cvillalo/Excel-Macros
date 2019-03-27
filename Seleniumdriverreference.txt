@@ -1,0 +1,13 @@
+Run the SeleniumBasic290 installer
+
+
+Copy the IE and Chrome drivers in the folders:
+
+C:\Program Files\SeleniumBasic
+C:\Users\MyProfile\AppData\Local\SeleniumBasic
+
+In excel make sure the library is enabled-selected
+select Selenium64.tlb as the Selenium Type Library
+
+Note:
+If you want to use Edge I.E make a copy of webdriver and rename it to edgedriver.exe
