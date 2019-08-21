@@ -1,7 +1,9 @@
-Run the SeleniumBasic290 installer
-
+Run the SeleniumBasic290 installer 
+Download it from https://github.com/florentbr/SeleniumBasic/releases/download/v2.0.9.0/SeleniumBasic-2.0.9.0.exe
+https://github.com/florentbr/SeleniumBasic/releases/tag/v2.0.9.0
 
 Copy the IE and Chrome drivers in the folders:
+https://florentbr.github.io/SeleniumBasic/
 
 C:\Program Files\SeleniumBasic
 C:\Users\MyProfile\AppData\Local\SeleniumBasic
