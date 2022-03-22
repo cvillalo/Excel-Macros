@@ -13,3 +13,6 @@ select Selenium64.tlb as the Selenium Type Library
 
 Note:
 If you want to use Edge I.E make a copy of webdriver and rename it to edgedriver.exe
+
+Installation manual
+https://simpleexcelvba.com/google-chrome-automation-with-selenium-basic/
